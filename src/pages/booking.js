@@ -1,5 +1,6 @@
 import React from "react";
 import { Parallax } from "react-parallax";
+import RegistrationForm from './components/registrationform'
 
 
 
@@ -18,6 +19,7 @@ return (
       </div>
     </Parallax>
 
+    <RegistrationForm/>
 	</div>
 );
 };
