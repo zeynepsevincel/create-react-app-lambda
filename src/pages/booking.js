@@ -1,6 +1,6 @@
 import React from "react";
 import { Parallax } from "react-parallax";
-import RegistrationForm from './components/registrationform'
+import RegistrationForm from '../components/registrationform'
 
 
 
