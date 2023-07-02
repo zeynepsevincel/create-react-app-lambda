@@ -18,7 +18,6 @@ return (
       </div>
     </Parallax>
 
-
 	</div>
 );
 };
