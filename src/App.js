@@ -11,19 +11,13 @@ import Review from "./pages/review";
 import Footer from "./components/Footer";
 
 
-
-
-
-
-
 function App() {
 return (
   <div className="App">
   <Router>
 	<Sidebar />
   <Routes>
-        <Route path='/' />
-        <Route index element={<Home/>}/>
+        <Route path='/Home' element={<Home/>} />
         <Route path='/rooms' element={<Rooms/>} />
         <Route path='/rooms/Deluxe' element={<Deluxe/>} />
         <Route path='/rooms/Family' element={<Family/>} />
