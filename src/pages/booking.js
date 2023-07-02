@@ -13,7 +13,7 @@ return (
 
 <Parallax bgImage={imag1} strength={500}>
       <div style={{ height: 500 }}>
-        <h1 style={{marginTop:"10%", fontWeight:"bold", fontSize:"100px", marginLeft:"34%", color:"white",}}>RESERVATIONS</h1>
+        <h1 style={{marginTop:"10%", fontWeight:"bold", fontSize:"100px", marginLeft:"34%", color:"black",}}>RESERVATIONS</h1>
 		
       </div>
     </Parallax>
