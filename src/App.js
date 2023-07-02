@@ -17,7 +17,7 @@ return (
   <Router>
 	<Sidebar />
   <Routes>
-        <Route exact path="/pages" element={<Home/>}/>
+        <Route path="/" element={<Home/>}/>
         <Route path='/rooms' element={<Rooms/>} />
         <Route path='/rooms/Deluxe' element={<Deluxe/>} />
         <Route path='/rooms/Family' element={<Family/>} />
