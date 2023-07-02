@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/create-react-app-lambda/static/css/main.f93033f6.css",
+    "main.js": "/create-react-app-lambda/static/js/main.54892a56.js",
+    "static/js/787.81936499.chunk.js": "/create-react-app-lambda/static/js/787.81936499.chunk.js",
+    "index.html": "/create-react-app-lambda/index.html",
+    "main.f93033f6.css.map": "/create-react-app-lambda/static/css/main.f93033f6.css.map",
+    "main.54892a56.js.map": "/create-react-app-lambda/static/js/main.54892a56.js.map",
+    "787.81936499.chunk.js.map": "/create-react-app-lambda/static/js/787.81936499.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f93033f6.css",
+    "static/js/main.54892a56.js"
+  ]
+}
