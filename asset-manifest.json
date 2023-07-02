@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/create-react-app-lambda/static/css/main.e3ca7f2c.css",
-    "main.js": "/create-react-app-lambda/static/js/main.54892a56.js",
+    "main.css": "/create-react-app-lambda/static/css/main.4b7a0f86.css",
+    "main.js": "/create-react-app-lambda/static/js/main.48925a1e.js",
     "static/js/787.81936499.chunk.js": "/create-react-app-lambda/static/js/787.81936499.chunk.js",
     "index.html": "/create-react-app-lambda/index.html",
-    "main.e3ca7f2c.css.map": "/create-react-app-lambda/static/css/main.e3ca7f2c.css.map",
-    "main.54892a56.js.map": "/create-react-app-lambda/static/js/main.54892a56.js.map",
+    "main.4b7a0f86.css.map": "/create-react-app-lambda/static/css/main.4b7a0f86.css.map",
+    "main.48925a1e.js.map": "/create-react-app-lambda/static/js/main.48925a1e.js.map",
     "787.81936499.chunk.js.map": "/create-react-app-lambda/static/js/787.81936499.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3ca7f2c.css",
-    "static/js/main.54892a56.js"
+    "static/css/main.4b7a0f86.css",
+    "static/js/main.48925a1e.js"
   ]
 }
